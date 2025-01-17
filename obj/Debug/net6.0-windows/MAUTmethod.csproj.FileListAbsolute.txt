@@ -1,0 +1,44 @@
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.exe
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.deps.json
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.runtimeconfig.json
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.dll
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.pdb
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.Form1.resources
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.csproj.GenerateResource.cache
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.AssemblyInfoInputs.cache
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.AssemblyInfo.cs
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.csproj.CoreCompileInputs.cache
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.dll
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\refint\MAUTmethod.dll
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.pdb
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.genruntimeconfig.cache
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\ref\MAUTmethod.dll
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.AddParameterForm.resources
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.EditParameterForm.resources
+C:\Users\matic\Desktop\FERI\2. letnik\SISTEMI ODLOČANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.UtilityFunctionForm.resources
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.csproj.AssemblyReference.cache
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.AddParameterForm.resources
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.AlternativeForm.resources
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.EditParameterForm.resources
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.Form1.resources
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.ResultForm.resources
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.UtilityFunctionForm.resources
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.csproj.GenerateResource.cache
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.AssemblyInfoInputs.cache
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.AssemblyInfo.cs
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.csproj.CoreCompileInputs.cache
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.exe
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.deps.json
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.runtimeconfig.json
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.dll
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\MAUTmethod.pdb
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.csproj.CopyComplete
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.dll
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\refint\MAUTmethod.dll
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.pdb
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\MAUTmethod.genruntimeconfig.cache
+C:\Users\Matic\Desktop\FERI\SISTMI ODLOCANJA\Koncniprojekt\MAUTmethod\obj\Debug\net6.0-windows\ref\MAUTmethod.dll
